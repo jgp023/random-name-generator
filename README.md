@@ -1,4 +1,4 @@
-# flx-006-js-5-debrief
+# flx-007-js-5-debrief
 
 ## In this exercise you will create your own Random Name Generator!
 
